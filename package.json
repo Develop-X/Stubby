@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Mock API",
+  "private": true,
+  "scripts": {
+    "start": "node bin/app"
+  },
+  "dependencies": {
+    "fs":"^0.0.2",
+    "lodash": "^4.17.5",
+    "path": "^0.12.7",
+    "stubby":"^4.0.0"
+  },
+  "author": "Dipjyoti Metia",
+  "license": "ISC"
+}

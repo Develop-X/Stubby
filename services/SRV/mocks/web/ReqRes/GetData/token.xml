@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceResponse <xmlns:xsi="htp://www.w3.org/2002/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+<Details>
+    <FirstName>Dip</FirstName>
+    <Email>dip@eail.com</Email>
+</Details>
+<Status>
+    <code>200</code>
+    <Message>Success</Message>
+</Status>

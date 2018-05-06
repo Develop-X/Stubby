@@ -1,0 +1,15 @@
+{
+    "status" :{
+        "code" : "Res-200",
+        "message" : "Success"
+    },
+    "RefDataResponse":[{
+        "type":"price",
+        "RefData":[
+            {
+                "code":"pkg-20",
+                "description": "TestPorduct"
+            }
+        ]
+    }]
+}
